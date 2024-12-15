@@ -39,7 +39,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-12 text-center text-muted-foreground">
-          © {new Date().getFullYear()} Kangaroo. All rights reserved.
+          © {new Date().getFullYear()} Kanguru. All rights reserved.
         </div>
       </div>
     </footer>

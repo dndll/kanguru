@@ -8,7 +8,7 @@ export default function Hero() {
           Make Better Decisions, Together
         </h1>
         <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto">
-          Kangaroo brings fairness and efficiency to group decision-making, helping communities and organizations thrive.
+          Kanguru brings fairness and efficiency to group decision-making, helping communities and organizations thrive.
         </p>
         <Button size="lg" className="mr-4">Start Free Trial</Button>
         <Button size="lg" variant="outline">See How It Works</Button>

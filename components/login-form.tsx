@@ -45,7 +45,7 @@ export default function LoginForm() {
       if (data.success) {
         toast({
           title: "Login Successful",
-          description: data.isAdmin ? "Welcome back, Admin!" : "Welcome back to Kangaroo!",
+          description: data.isAdmin ? "Welcome back, Admin!" : "Welcome back to Kanguru!",
         })
         router.push(data.isAdmin ? '/dashboard' : '/dashboard')
       } else {

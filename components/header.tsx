@@ -8,7 +8,7 @@ export default async function Header() {
   return (
     <header className="py-4 px-6 bg-primary/10 backdrop-blur supports-[backdrop-filter]:bg-primary/5">
       <nav className="container mx-auto flex justify-between items-center">
-        <Link href="/" className="text-2xl font-bold">Kangaroo</Link>
+        <Link href="/" className="text-2xl font-bold">Kanguru</Link>
         <div className="space-x-4">
           <Button variant="ghost" asChild>
             <Link href="/proposals">Proposals</Link>

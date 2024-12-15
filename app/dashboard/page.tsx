@@ -13,7 +13,7 @@ export default async function DashboardPage() {
     <div className="min-h-screen bg-background">
       <header className="py-4 px-6 bg-primary text-primary-foreground">
         <div className="container mx-auto flex justify-between items-center">
-          <h1 className="text-2xl font-bold">Kangaroo Dashboard</h1>
+          <h1 className="text-2xl font-bold">Kanguru Dashboard</h1>
           <form action="/api/logout" method="POST">
             <Button type="submit" variant="secondary">Log out</Button>
           </form>
@@ -24,7 +24,7 @@ export default async function DashboardPage() {
         {session.user.isAdmin && (
           <p className="text-xl mb-4 text-primary">You are logged in as an admin.</p>
         )}
-        <p className="text-xl mb-8">This is your Kangaroo dashboard. Here you can manage your decision-making processes and view results.</p>
+        <p className="text-xl mb-8">This is your Kanguru dashboard. Here you can manage your decision-making processes and view results.</p>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div className="bg-card text-card-foreground rounded-lg p-6 shadow">
             <h3 className="text-2xl font-semibold mb-4">Active Proposals</h3>

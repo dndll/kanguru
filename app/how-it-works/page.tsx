@@ -4,10 +4,10 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 export default function HowItWorksPage() {
   return (
     <div className="container mx-auto py-8 px-4">
-      <h1 className="text-4xl font-bold mb-8">How Kangaroo Works</h1>
+      <h1 className="text-4xl font-bold mb-8">How Kanguru Works</h1>
       
       <section className="mb-12">
-        <h2 className="text-2xl font-semibold mb-4">The Kangaroo Decision-Making Process</h2>
+        <h2 className="text-2xl font-semibold mb-4">The Kanguru Decision-Making Process</h2>
         <RoadmapComponent />
       </section>
 
@@ -54,7 +54,7 @@ export default function HowItWorksPage() {
       <section className="mb-12">
         <h2 className="text-2xl font-semibold mb-4">The Role of AI Experts</h2>
         <p className="mb-4">
-          Kangaroo utilizes a diverse panel of AI experts, each with unique perspectives and decision-making styles:
+          Kanguru utilizes a diverse panel of AI experts, each with unique perspectives and decision-making styles:
         </p>
         <ul className="list-disc list-inside space-y-2">
           <li><strong>Pragmatic Generalist (🧠):</strong> Provides balanced, middle-of-the-road solutions</li>
@@ -69,7 +69,7 @@ export default function HowItWorksPage() {
       <section>
         <h2 className="text-2xl font-semibold mb-4">Decentralized Validation</h2>
         <p className="mb-4">
-          Kangaroo ensures fairness and transparency through its decentralized validation process:
+          Kanguru ensures fairness and transparency through its decentralized validation process:
         </p>
         <ul className="list-disc list-inside space-y-2">
           <li>Validators are selected based on stake, randomness, and reputation.</li>

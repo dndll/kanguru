@@ -4,17 +4,17 @@ const testimonials = [
   {
     name: "Sarah Johnson",
     role: "Community Leader",
-    quote: "Kangaroo has transformed how we make decisions in our neighborhood association. It's inclusive, fair, and incredibly efficient!"
+    quote: "Kanguru has transformed how we make decisions in our neighborhood association. It's inclusive, fair, and incredibly efficient!"
   },
   {
     name: "Michael Chen",
     role: "Startup Founder",
-    quote: "As a growing startup, we needed a way to make quick yet informed decisions. Kangaroo has been a game-changer for our team."
+    quote: "As a growing startup, we needed a way to make quick yet informed decisions. Kanguru has been a game-changer for our team."
   },
   {
     name: "Emily Rodriguez",
     role: "Non-Profit Director",
-    quote: "Kangaroo helps us navigate complex policy decisions by ensuring all stakeholders' voices are heard. It's been invaluable for our organization."
+    quote: "Kanguru helps us navigate complex policy decisions by ensuring all stakeholders' voices are heard. It's been invaluable for our organization."
   }
 ]
 
